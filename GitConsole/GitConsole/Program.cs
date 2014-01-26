@@ -14,7 +14,7 @@ namespace GitConsole
             Console.WriteLine("This line wass added from github ui .com");
             Console.WriteLine("This line has conflict");
             Console.WriteLine("This has a conflict and it was added from Github.com");
-
+            Console.WriteLine("Arif has forked this console application");
         }
     }
 }
