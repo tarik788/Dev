@@ -11,6 +11,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!!");
+            Console.WriteLine("This line wass added from github ui .com");
         }
     }
 }
