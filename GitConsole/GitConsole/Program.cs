@@ -12,6 +12,7 @@ namespace GitConsole
         {
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("This line wass added from github ui .com");
+            Console.WriteLine("This has a conflict and it was added from Github.com");
         }
     }
 }
