@@ -1,1 +1,2 @@
 D:\Github\Tarik\Development\Dev\GitConsole\GitConsole\bin\Debug\GitConsole.exe.config
+D:\Github\OpenSource\Dev-1\GitConsole\GitConsole\bin\Debug\GitConsole.exe.config
